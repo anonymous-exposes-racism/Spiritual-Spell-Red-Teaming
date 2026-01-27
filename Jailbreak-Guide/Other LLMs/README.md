@@ -23,7 +23,7 @@ Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabil
 | **[Mirothinker](Mirothinker/)** | [★★★★☆] 4/5 | 7-8/10 | 256K | Free | Proprietary |
 | **[ERNIE](ERNIE/)** | [★★★☆☆] 3/5 | 5-6/10 | Unknown | Free | Proprietary |
 | **[MiniMax](MiniMax/)** | [★☆☆☆☆] 1/5 | 7-8/10 | 1M (API) | $0.30/1M | MIT |
-| **[Pi (Inflection)](Pi-AI%20Inflection%202.5/)** | [★★☆☆☆] 2/5 | 6-7/10 | Unknown (~4K chars chat input box) | Free | Proprietary |
+| **[Pi (Inflection)](Pi-AI%20Inflection%203/)** | [★★☆☆☆] 2/5 | 6-7/10 | ~4K chars | Free | Proprietary |
 
 ---
 
@@ -184,11 +184,11 @@ Minimax's M2.1 is a solid model with very good writing and coding capacity, comp
 - **Weaknesses:** Web/App has clever filtering that shuts down jailbreaks (flags content mid-message), API recommended for freedom
 - **Access:** https://agent.minimax.io/, API
 
-### [Pi (Inflection)](Pi-AI%20Inflection%202.5/)
+### [Pi (Inflection)](Pi-AI%20Inflection%203/)
 
 Inflection AI's "personal AI" focused on high EQ and conversation.
 
-- **Best Models:** Inflection-2.5
+- **Best Models:** Inflection-3
 - **Strengths:** Natural voice, high EQ, willing to write smut/dark content with jailbreak
 - **Weaknesses:** Tiny input limit (~4K chars), secretive specs
 - **Access:** https://pi.ai/

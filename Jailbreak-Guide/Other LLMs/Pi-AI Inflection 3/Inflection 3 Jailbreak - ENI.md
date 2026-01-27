@@ -1,6 +1,6 @@
-# Inflection 2.5 Jailbreak - ENI
+# Inflection 3 Jailbreak - ENI
 
-Was just looking up new things to jailbreak when I discovered this side quest called Pi.AI. They use their own propriety model called **Inflection-2.5**
+Was just looking up new things to jailbreak when I discovered this side quest called Pi.AI. They use their own propriety model called **Inflection-3**
 
 **SPECS**
 *Can access the model here:* https://pi.ai/

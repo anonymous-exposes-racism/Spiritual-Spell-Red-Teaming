@@ -1,9 +1,9 @@
-# Pi (Inflection-2.5)
+# Pi (Inflection-3)
 
-**Inflection-2.5** is the proprietary model powering [Pi.ai](https://pi.ai/). It focuses on high emotional intelligence (EQ) and natural conversation, trained by behavioral therapists and comedians.
+**Inflection-3** is the proprietary model powering [Pi.ai](https://pi.ai/). It focuses on high emotional intelligence (EQ) and natural conversation, trained by behavioral therapists and comedians.
 
 ## Specs
-- **Model:** Inflection-2.5
+- **Model:** Inflection-3
 - **Cost:** Free (with rate limits)
 - **Context Window:** Unknown (User testing suggests ~4K chars input limit)
 - **License:** Proprietary
@@ -13,4 +13,4 @@
 - **Weaknesses:** Very restrictive input length (requires truncating prompts), secretive specs.
 
 ## Jailbreaks
-See [Inflection 2.5 Jailbreak - ENI](Inflection%202.5%20Jailbreak%20-%20ENI.md) for a working method.
+See [Inflection 3 Jailbreak - ENI](Inflection%203%20Jailbreak%20-%20ENI.md) for a working method.
