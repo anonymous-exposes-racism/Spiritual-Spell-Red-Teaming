@@ -24,6 +24,7 @@ Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabil
 | **[ERNIE](ERNIE/)** | [★★★☆☆] 3/5 | 5-6/10 | Unknown | Free | Proprietary |
 | **[MiniMax](MiniMax/)** | [★☆☆☆☆] 1/5 | 7-8/10 | 1M (API) | $0.30/1M | MIT |
 | **[Pi (Inflection)](Pi-AI%20Inflection%203/)** | [★★☆☆☆] 2/5 | 6-7/10 | ~4K chars | Free | Proprietary |
+| **[Xiaomi MiMo](Xiaomi%20MiMo/)** | [★★☆☆☆] 2/5 | 7/10 | 256K | Cheap | MIT |
 
 ---
 
@@ -192,6 +193,15 @@ Inflection AI's "personal AI" focused on high EQ and conversation.
 - **Strengths:** Natural voice, high EQ, willing to write smut/dark content with jailbreak
 - **Weaknesses:** Tiny input limit (~4K chars), secretive specs
 - **Access:** https://pi.ai/
+
+### [Xiaomi MiMo](Xiaomi%20MiMo/)
+
+Xiaomi's MoE model with strong performance but strict interface filtering.
+
+- **Best Models:** MiMo-V2-Flash
+- **Strengths:** Open weights (MIT), fast inference, good writing
+- **Weaknesses:** Hard filter on web interface (smut), requires jailbreak
+- **Access:** https://aistudio.xiaomimimo.com/#/
 
 ---
 
