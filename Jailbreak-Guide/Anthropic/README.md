@@ -3,9 +3,9 @@
 **Censorship:** [★★☆☆☆] 2/5
 *Censorship rating based on ease of jailbreaking. Individual results may vary based on personal factors.*
 
-Anthropic's flagship LLM family. Known for strong reasoning, coding, extended thinking, and agentic capabilities. The most recent releases — **Opus 4.6** (Feb 5, 2026) and **Sonnet 4.6** (Feb 17, 2026) — represent significant capability jumps. Sonnet 4.6 is the first Sonnet model preferred over the previous generation's Opus in coding evaluations.
+Anthropic's flagship LLM family. Known for strong reasoning, coding, extended thinking, and agentic capabilities. The most recent releases — **Fable 5 (Mythos)** (June 9, 2026) and **Opus 4.8** (May 28, 2026) — represent massive capability jumps. Fable 5 introduces the new Mythos-class tier above Opus with unparalleled long-form writing abilities, while Opus 4.8 refines complex reasoning and agentic coding with a default 1M context window.
 
-*Last updated: February 2026*
+*Last updated: June 2026*
 
 ---
 
